@@ -26,3 +26,9 @@ https://opensource-demo.orangehrmlive.com/
 
 ## Author
 Rohit Chaurasia
+
+## Modules Covered
+- Login Module
+- Timesheet Module
+- Attendance Functionality
+- Reports Functionality
